@@ -1,0 +1,1 @@
+{'f': 100.0, 'u': 10000.0, 'neum': 10000.0, 'pump': 1.0, 'diri': 1000.0, 'Qp': 30, 'r': 3, 'hnu': 20, 'lenu': 8, 'act_K': 'tanh', 'act_u': 'tanh', 'out_K': 'linear', 'out_u': 'linear'}
