@@ -9,6 +9,14 @@ Please note this work:
 * Assumes the reader is comfortable with Python, especially, python notebook and pytorch.
 * Google Cloud is recommended as the computing platform.
 
+## Data
+
+**heads/heads_pump<id>**: Hydraulic heads under each pumping test (solved with FEM)
+**logK_field**: natural log hydraulic conductivity field (lnK)
+**alpha_vector**: hidden random variables used to generated logK field with PCA realization generation method
+**K_measure_id_61**: idx of direct measurement on hydraulic conductivity on domain mesh
+**K_measure_id_25**: idx of pumping wells on domain mesh
+   
 ## How to use
 
 1) Clone.
