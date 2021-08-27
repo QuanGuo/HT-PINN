@@ -20,21 +20,23 @@ Please note this work:
 **K_measure_id_61**: idx of direct measurement on hydraulic conductivity on domain mesh
    
 **K_measure_id_25**: idx of pumping wells on domain mesh
+   
  
 ## Model Training (model_coeff)
    
-recommended hyper-parameters are saved in hyper_parameters.txt
+recommended hyper-parameters are saved in **hyper_parameters.txt**
    
-coefficients (weights and biases) of example trained forward model are save in model_u_12.txt
+coefficients (weights and biases) of example trained forward model are save in **model_u_12.txt**
+   
    
 ## How to use
 
 1) Clone.
 
-2) For forward problem: forward_example.ipynb
-   For inverse problem: inverse_exampel.ipynb
+2) For forward problem: **HT_PINN_forward.ipynb**; 
+   For inverse problem: **HT_PINN_inverse.ipynb**
   
-3) Tune hyper-parameter
+3) Tune hyper-parameters
 
 4) train and save results
 
