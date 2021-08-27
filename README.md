@@ -12,10 +12,20 @@ Please note this work:
 ## Data
 
 **heads/heads_pump<id>**: Hydraulic heads under each pumping test (solved with FEM)
+   
 **logK_field**: natural log hydraulic conductivity field (lnK)
+   
 **alpha_vector**: hidden random variables used to generated logK field with PCA realization generation method
+   
 **K_measure_id_61**: idx of direct measurement on hydraulic conductivity on domain mesh
+   
 **K_measure_id_25**: idx of pumping wells on domain mesh
+ 
+## Model Training (model_coeff)
+   
+recommended hyper-parameters are saved in hyper_parameters.txt
+   
+coefficients (weights and biases) of example trained forward model are save in model_u_12.txt
    
 ## How to use
 
