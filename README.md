@@ -40,16 +40,21 @@ coefficients (weights and biases) of example trained forward model are save in *
 
 4) train and save results
 
-## Citation Format
-@article{GUO2023128828,
-title = {High-dimensional inverse modeling of hydraulic tomography by physics informed neural network (HT-PINN)},
-journal = {Journal of Hydrology},
-volume = {616},
-pages = {128828},
-year = {2023},
-issn = {0022-1694},
-doi = {https://doi.org/10.1016/j.jhydrol.2022.128828},
-url = {https://www.sciencedirect.com/science/article/pii/S0022169422013981},
-author = {Quan Guo and Yue Zhao and Chunhui Lu and Jian Luo},
-keywords = {PINN, Hydraulic tomography, Large-scale, Inverse problem, Neural network},
+## Citations
+<@misc{li2020fourier,
+      title={Fourier Neural Operator for Parametric Partial Differential Equations}, 
+      author={Zongyi Li and Nikola Kovachki and Kamyar Azizzadenesheli and Burigede Liu and Kaushik Bhattacharya and Andrew Stuart and Anima Anandkumar},
+      year={2020},
+      eprint={2010.08895},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
+
+@misc{li2020neural,
+      title={Neural Operator: Graph Kernel Network for Partial Differential Equations}, 
+      author={Zongyi Li and Nikola Kovachki and Kamyar Azizzadenesheli and Burigede Liu and Kaushik Bhattacharya and Andrew Stuart and Anima Anandkumar},
+      year={2020},
+      eprint={2003.03485},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}>
