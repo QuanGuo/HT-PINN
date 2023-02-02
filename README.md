@@ -42,15 +42,15 @@ coefficients (weights and biases) of example trained forward model are save in *
 
 ## Citations
 ```
-   @article{GUO2023128828,
-title = {High-dimensional inverse modeling of hydraulic tomography by physics informed neural network (HT-PINN)},
-journal = {Journal of Hydrology},
-volume = {616},
-pages = {128828},
-year = {2023},
-issn = {0022-1694},
-doi = {https://doi.org/10.1016/j.jhydrol.2022.128828},
-url = {https://www.sciencedirect.com/science/article/pii/S0022169422013981},
-author = {Quan Guo and Yue Zhao and Chunhui Lu and Jian Luo}
+@article{GUO2023128828,
+      title = {High-dimensional inverse modeling of hydraulic tomography by physics informed neural network (HT-PINN)},
+      journal = {Journal of Hydrology},
+      volume = {616},
+      pages = {128828},
+      year = {2023},
+      issn = {0022-1694},
+      doi = {https://doi.org/10.1016/j.jhydrol.2022.128828},
+      url = {https://www.sciencedirect.com/science/article/pii/S0022169422013981},
+      author = {Quan Guo and Yue Zhao and Chunhui Lu and Jian Luo}
 }
 ```
