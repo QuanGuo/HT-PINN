@@ -38,7 +38,7 @@ coefficients (weights and biases) of example trained forward model are save in *
   
 3) Tune hyper-parameters
 
-4) train and save results
+4) Train and save results
 
 ## Citations
 ```
